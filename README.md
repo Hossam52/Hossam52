@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Hossam Hassan computer science student at Ain-Shams-University
+- 👋 Hi, I’m Hossam Hassan graduated from Ain-Shams-University in computer science department with grade very good.
 - 👀 I’m interested in building mobile applications using flutter and dart and interested in cybersecurity too
 - 🌱 I’m currently learning Cyber security as Digital forensic, ML and Flutter
-- 💞️ I’m looking to collaborate on team to develop apps or to learn with each other
 - 📫 How to reach me contact me at hossam.hassan.fcis@gmail.com or +201115425561
 
 <!---
